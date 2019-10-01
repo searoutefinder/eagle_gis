@@ -1,2 +1,2 @@
-# eagle_gis
+# Eagle GIS Application
 Eagle GIS development repo
